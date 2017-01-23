@@ -7,7 +7,7 @@ Helloer::Helloer(const string& aMessage)
 
 Helloer::Helloer()
 {
-	Message = (std::string)"";
+	message = (std::string)"";
 }
 
 string Helloer::printMessage()
